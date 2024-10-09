@@ -1,8 +1,11 @@
-# Traffic_game
-A car game where the goal is to dodge the incoming cars.
+# Traffic Dodging Game
+---
+# Overview
 
-File to run: TrafficGame.py
+This project is a **car dodging game** built using **Python** and the **Pygame library**. The goal of the game is simple: control your car and dodge the incoming traffic for as long as possible. As the levels progress, the game becomes increasingly difficult, with cars coming faster and in larger numbers, eventually making it almost impossible to continue—this adds to the challenge and fun!
 
-Note: after a few leves it becomes imposible, an implementation for it is needed.
+The game begins with 1000 lives, allowing players to enjoy the gameplay longer before hitting the challenge wall.
 
-The lives are set at 1000 to have more fun.
+To start the game, simply run the ```TrafficGame.py``` file.
+
+
